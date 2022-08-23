@@ -1,0 +1,121 @@
+/* body {
+    background: #F9F9F9;
+  }
+   */
+  .accordion {
+    max-width: 500px;
+    margin: 50px auto;
+    box-shadow: 0 0 1px rgba(0,0,0,0.1);
+  }
+  
+
+  .accordion-header {
+    border-bottom-color: #EDEFF0; 
+    background: transparent;
+    color: #6e7f13;
+    border: none;
+  }
+  
+  .accordion-button {
+    width: 100%;
+    font-weight: bold;
+    color: #6e7f13;
+    padding: 2;
+    border: none; 
+  }
+
+  @media screen (max-width: 575px){
+    .accordion {
+      max-width: 500px;
+      margin: 50px auto;
+      box-shadow: 0 0 1px rgba(0,0,0,0.1);
+    }
+    
+  
+    .accordion-header {
+      border-bottom-color: #EDEFF0; 
+      background: transparent;
+      color: #6e7f13;
+      border: none;
+    }
+    
+    .accordion-button {
+      width: 100%;
+      font-weight: bold;
+      color: #6e7f13;
+      padding: 2;
+      border: none; 
+    }
+
+  }
+
+  @media screen (min-width: 576px) and (max-width: 767px) {  
+    .accordion {
+      max-width: 500px;
+      margin: 50px auto;
+      box-shadow: 0 0 1px rgba(0,0,0,0.1);
+    }
+    
+  
+    .accordion-header {
+      border-bottom-color: #EDEFF0; 
+      background: transparent;
+      color: #6e7f13;
+      border: none;
+    }
+    
+    .accordion-button {
+      width: 100%;
+      font-weight: bold;
+      color: #6e7f13;
+      padding: 2;
+      border: none; 
+    }  
+  }
+
+  @media screen (min-width: 768px) and (max-width: 991px) {  
+    .accordion {
+      max-width: 500px;
+      margin: 50px auto;
+      box-shadow: 0 0 1px rgba(0,0,0,0.1);
+    }
+    
+  
+    .accordion-header {
+      border-bottom-color: #EDEFF0; 
+      background: transparent;
+      color: #6e7f13;
+      border: none;
+    }
+    
+    .accordion-button {
+      width: 100%;
+      font-weight: bold;
+      color: #6e7f13;
+      padding: 2;
+      border: none; 
+    }  
+  }
+  @media screen (min-width: 992px){
+    .accordion {
+      max-width: 500px;
+      margin: 50px auto;
+      box-shadow: 0 0 1px rgba(0,0,0,0.1);
+    }
+    
+  
+    .accordion-header {
+      border-bottom-color: #EDEFF0; 
+      background: transparent;
+      color: #6e7f13;
+      border: none;
+    }
+    
+    .accordion-button {
+      width: 100%;
+      font-weight: bold;
+      color: #6e7f13;
+      padding: 2;
+      border: none; 
+    }
+  }
